@@ -8,3 +8,6 @@ To assign a permission set or multiple permissions, navigate to **Setup > User >
 <img width="1282" alt="screenshot 2018-09-11 11 51 27" src="https://user-images.githubusercontent.com/40306361/45374931-263e6280-b5b9-11e8-902a-d1f91251624a.png">
 
 * Click **Add Assignments**
+<img width="1281" alt="screenshot 2018-09-11 11 55 19" src="https://user-images.githubusercontent.com/40306361/45375183-d4e2a300-b5b9-11e8-9e27-e5ffa04793e2.png">
+
+Check the box next to the user(s) that you would like to assign the permission set to and click **Assign**
