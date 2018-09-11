@@ -6,3 +6,5 @@ To assign a permission set or multiple permissions, navigate to **Setup > User >
 
 * From the Permission Set Overview page, click **Manage Assignments**
 <img width="1282" alt="screenshot 2018-09-11 11 51 27" src="https://user-images.githubusercontent.com/40306361/45374931-263e6280-b5b9-11e8-902a-d1f91251624a.png">
+
+* Click **Add Assignments**
