@@ -22,4 +22,4 @@ A permission set is a collection of settings and permissions that give users acc
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+14.14.20.png></p>
 
-Click **Assign**
+* Click **Assign**
