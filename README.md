@@ -32,6 +32,10 @@ A permission set is a collection of settings and permissions that give users acc
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+14.21.13.png></p>
 
+* Click **Done**
+
+<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+17.16.31.png></p>
+
 ## Assigning Multiple Permission Sets to One User
 
 * To assign multiple permission sets to one user navigate to **Setup > User > User**
