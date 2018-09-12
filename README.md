@@ -3,8 +3,8 @@
 A permission set is a collection of settings and permissions that give users access to various tools and functions. The settings and permissions in permission sets are also found in profiles, but permission sets extend users' functional access without changing their profiles.
 
 # Table of Contents 
-  * __[Assigning a Single Permission Set to Multiple Users](#assigning-a-permissionset)__       
-  * __[Assigning Multiple Permission Sets to One User](#assigning-multiple-permissions)__
+  * __[Assigning a Single Permission Set to Multiple Users](#assigning-a-single-permission-set-to-multiple-users)__       
+  * __[Assigning Multiple Permission Sets to One User](#assigning-multiple-permission-sets-to-one-user)__
 
 ## Assigning a Single Permission Set to Multiple Users
 
