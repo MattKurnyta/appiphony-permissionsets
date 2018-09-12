@@ -45,3 +45,11 @@ A permission set is a collection of settings and permissions that give users acc
 * Choose which permissions the user needs 
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+15.30.39.png></p>
+
+* Once the permission sets are selected click **Add**
+
+<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+15.35.23.png></p>
+
+* Once the permission sets are added click **save** above or below the tables. Now the permissions will be assigned to the user
+
+<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+16.03.25.png></p>
