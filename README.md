@@ -42,9 +42,13 @@ A permission set is a collection of settings and permissions that give users acc
 
 ## Assigning Multiple Permission Sets to One User
 
-* To assign multiple permission sets to one user navigate to **Setup > User > User**
+1. In your Salesforce org, navigate to `Setup` by clicking the __cog__ in the upper right of the page, then click on  __Setup__.
 
-<p align="center"><img height="500" src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+14.40.05.png></p>
+<p align="center"><img src="https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/How+to+set+up+Financial+Services+Cloud/setupnav.png?raw=true"></p>
+
+2. Search for `Users` in the search bar, and click on __Users__.
+
+<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+14.11.32.png></p>
 
 * Click into the **username** of the user that needs the permission sets assigned to them 
 
