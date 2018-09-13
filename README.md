@@ -28,13 +28,13 @@ A permission set is a collection of settings and permissions that give users acc
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+13.27.43.png></p>
 
-6. **Check the box(s)** next to the user(s) that you would like to assign the permission
+6. **Check the box(s)** next to the user(s) that you would like to assign the permission to 
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+13.40.50.png></p>
 
-* Click **Assign** either above or below the usernames 
+7. Click **Assign**
 
-<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+14.21.13.png></p>
+<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+13.46.36.png></p>
 
 * Click **Done**
 
