@@ -54,7 +54,7 @@ A permission set is a collection of settings and permissions that give users acc
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+15.19.36.png></p>
 
-4. Once in the users profile scroll down until you see the Permission Set Assignments section and click **Edit Assignments**
+4. Scroll down until you see the Permission Set Assignments section and click **Edit Assignments**
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+15.35.47.png></p>
 
@@ -62,9 +62,9 @@ A permission set is a collection of settings and permissions that give users acc
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+15.56.06.png></p>
 
-6. Once the permission sets are selected click **Add**
+6. Click **Add**
 
-<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+15.35.23.png></p>
+<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+16.00.35.png></p>
 
 * Once the permission sets are added click **save** above or below the tables. Now the permissions will be assigned to the user
 
