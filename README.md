@@ -48,7 +48,7 @@ A permission set is a collection of settings and permissions that give users acc
 
 2. Search for `Users` in the search bar, and click on __Users__.
 
-<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+14.11.32.png></p>
+<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+14.17.03.png></p>
 
 * Click into the **username** of the user that needs the permission sets assigned to them 
 
