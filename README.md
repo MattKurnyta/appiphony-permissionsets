@@ -20,9 +20,9 @@ A permission set is a collection of settings and permissions that give users acc
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+11.13.56.png></p>
 
-* From the Permission Set Overview page, click **Manage Assignments**
+* Click **Manage Assignments**
 
-<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+13.34.48.png></p>
+<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+11.26.41.png></p>
 
 * Click **Add Assignments**
 
