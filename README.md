@@ -60,9 +60,9 @@ A permission set is a collection of settings and permissions that give users acc
 
 5. Choose which permissions the user needs 
 
-<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+15.45.17.png></p>
+<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+15.56.06.png></p>
 
-* Once the permission sets are selected click **Add**
+6. Once the permission sets are selected click **Add**
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+15.35.23.png></p>
 
