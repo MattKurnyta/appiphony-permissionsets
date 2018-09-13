@@ -20,7 +20,7 @@ A permission set is a collection of settings and permissions that give users acc
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+11.13.56.png></p>
 
-* Click **Manage Assignments**
+4. Click **Manage Assignments**
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+11.26.41.png></p>
 
