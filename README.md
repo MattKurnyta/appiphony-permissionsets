@@ -8,9 +8,13 @@ A permission set is a collection of settings and permissions that give users acc
 
 ## Assigning a Single Permission Set to Multiple Users
 
-* To assign a single permission set to multiple users navigate to **Setup > User > Permission Sets**
+1. In your Salesforce org, navigate to `Setup` by clicking the __cog__ in the upper right of the page, then click on  __Setup__.
 
-<p align="center"><img height="500" src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-11+16.34.51.png></p>
+<p align="center"><img src="https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/How+to+set+up+Financial+Services+Cloud/setupnav.png?raw=true"></p>
+
+2. Search for `Permission Sets` in the search bar, and click on __Permission Sets__.
+
+<p align="center"><img src="https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/How+to+set+up+Financial+Services+Cloud/searchpermissions.png?raw=true"></p>
 
 * Select the Permission Set you would like to assign
 
@@ -52,7 +56,7 @@ A permission set is a collection of settings and permissions that give users acc
 
 * Choose which permissions the user needs 
 
-<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+15.30.39.png></p>
+<p align="center"><img height="250" src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+15.30.39.png></p>
 
 * Once the permission sets are selected click **Add**
 
