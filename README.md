@@ -16,9 +16,9 @@ A permission set is a collection of settings and permissions that give users acc
 
 <p align="center"><img src="https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/How+to+set+up+Financial+Services+Cloud/searchpermissions.png?raw=true"></p>
 
-* Select the Permission Set you would like to assign
+3. Select the Permission Set you would like to assign
 
-<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-12+11.24.41.png></p>
+<p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+11.01.48.png></p>
 
 * From the Permission Set Overview page, click **Manage Assignments**
 
