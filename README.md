@@ -14,7 +14,7 @@ In cases where the standard user permission set is the only permission set neede
 
 <p align="center"><img src="https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/How+to+set+up+Financial+Services+Cloud/searchpermissions.png?raw=true"></p>
 
-3. Select the Permission Set you would like to assign
+3. Select the Permission Set
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+11.13.56.png></p>
 
