@@ -44,6 +44,8 @@ In cases where the standard user permission set is the only permission set neede
 
 ## Assigning Multiple Permission Sets to One User
 
+In cases where multiple permissions need to be assigned to a standard user to access the lightning compenent.
+
 1. In your Salesforce org, navigate to `Setup` by clicking the __cog__ in the upper right of the page, then click on  __Setup__.
 
 <p align="center"><img src="https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/How+to+set+up+Financial+Services+Cloud/setupnav.png?raw=true"></p>
