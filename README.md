@@ -8,6 +8,8 @@ A permission set is a collection of settings and permissions that give users acc
 
 ## Assigning a Single Permission Set to Multiple Users
 
+In cases where the standard user permission set is the only permission set needed for multiple standard users to access a lightning componenet. 
+
 1. In your Salesforce org, navigate to `Setup` by clicking the __cog__ in the upper right of the page, then click on  __Setup__.
 
 <p align="center"><img src="https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/How+to+set+up+Financial+Services+Cloud/setupnav.png?raw=true"></p>
@@ -66,6 +68,6 @@ A permission set is a collection of settings and permissions that give users acc
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+16.55.39.png></p>
 
-7. Click **save**
+7. Click **Save**
 
 <p align="center"><img src=https://s3.us-east-2.amazonaws.com/appiphony-parts-catalog/Permission+Set/Screenshot+2018-09-13+16.16.17.png></p>
